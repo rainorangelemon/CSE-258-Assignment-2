@@ -1,2 +1,4 @@
 data/goodreads_reviews_spoiler.json
 data/goodreads_reviews_spoiler.json.gz
+data/DF-IIF.pkl
+codes/.ipynb_checkpoints/*
